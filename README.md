@@ -15,5 +15,5 @@
         </div> 
       </h1>
       <h3 style='clear:both' class="subhead">
-        <a href="https://www.linkedin.com/in/toukir-ahmmed-60878213b/">Toukir</a> iis an enthusiastic, young, self-taught freelancer tutor currently studying at the East West University.
+        <a href="https://www.linkedin.com/in/toukir-ahmmed-60878213b/">Toukir</a> is an enthusiastic, young, self-taught freelancer tutor currently studying at the East West University.
       </h3>

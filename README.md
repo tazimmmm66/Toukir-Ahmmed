@@ -17,4 +17,4 @@
       <h3 style='clear:both' class="subhead">
         <a href="https://www.linkedin.com/in/toukir-ahmmed-60878213b/">Toukir</a> is an enthusiastic, young, self-taught freelancer tutor currently studying at the East West University.
       </h3>
-<img src="https://user-images.githubusercontent.com/61666094/75918154-62d4dc80-5e85-11ea-9db3-9675a2eb1c28.jpg"
+<img src="https://github.com/tazimmmm66/Toukir-Ahmmed/blob/22a84736a5267a99a07e51673ab57cbb5a4164a2/13256530_1156231121093678_8605666222218788642_n.jpg"
